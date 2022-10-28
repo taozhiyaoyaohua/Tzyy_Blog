@@ -1,0 +1,5 @@
+com\tzyy\controllers\LoginController.class
+com\tzyy\TzyyAdminApplication.class
+com\tzyy\filters\JwtAuthenticationTokenFilter.class
+com\tzyy\controllers\TagController.class
+com\tzyy\config\SecurityConfig.class
